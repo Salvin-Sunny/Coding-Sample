@@ -1,1 +1,5 @@
 another file has been created to understanf working of GitHb.
+
+I am Salvin Sunny, am learning GitHub using btototype tutorial.
+I have already completed Java and Html.
+Planning to learn nodeJs next.  
