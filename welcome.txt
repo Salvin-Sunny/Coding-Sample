@@ -6,3 +6,9 @@ As of now master is the branch.
 We are learning more cool features of git hub.
 stay cool.
 Enjoy the process. 
+
+
+
+
+We have added another branch called feature.
+To learn some cool stuffs like merging,checkout etc..
