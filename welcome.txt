@@ -1,3 +1,8 @@
 hai welcome
 
 We are beginning a new project.
+
+As of now master is the branch.
+We are learning more cool features of git hub.
+stay cool.
+Enjoy the process. 
